@@ -86,4 +86,32 @@ a wireframe is considered to be the scratch of a website's interface, its the sk
 ![wireframe](https://th.bing.com/th/id/R39cfed23cc81bffc3180e161c8d81da5?rik=AjRhHk1pddjbsg&riu=http%3a%2f%2fmmls.mmu.edu.my%2fwordpress%2f1151103126%2fwp-content%2fuploads%2fsites%2f30365%2f2017%2f09%2fSimple-Wireframe-2.jpg&ehk=Qd8ZxXCzNHJb%2fPPMvCYdP6OZVsfkKqebJAyvviq%2bXzQ%3d&risl=&pid=ImgRaw)
 don't worry it's just the beginning of it, it just need a little arranging, styling and coloring and it will come alive!.
 
+# JavaScript
+## introduction
+javascript allows you to make web pages more interactive by modifying the content and markup while being viewed in the browser by:
+1. accessing the content You can use JavaScript to select any element, attribute, or text from an HTML page.
+2. modifying the content by adding elements, attributes, and text to the page, or remove them.
+3. programming the rules so You can specify a set of steps for the browser to follow (like a recipe), which allows it to access or change the content of a page.
+4. react to events so the script should run when a specific event has occured.
 
+# the A B C of programming
+# A
+what is a script and how can i create one ?
+
+A script is a series of instructions that a computer can follow to achieve a goal You could compare scripts to any of the following ( a recipe, a handbook or manuals).
+and for creating it, you need to first state your goal and then list the tasks that need to be completed in order to achieve it. and once you know it you can work out the indiviual tasks by representing it in a flowchart.
+# B
+how do computers fit in with the world around them ?
+
+first lets understand how a browser sees a web page:
+1. it recives the page as an HTML code.
+2. it creats a model of the page and store it in the memory.
+3. it uses a rendering engine to show the page on the screen.
+
+# C 
+how do i write a script for a web page ?
+
+and its simply by using the objects & methods, such as using what prorammers refer to as the calling method by using the (document.) object, it represents the entire web page and all the web browsers implement this object, followed by the method of the document such as (write) and writhing the parameters right after it.
+When the browser comes across a < script> element, it stops to
+load the script and then checks to see if it needs to do anything. 
+and that's how the job is done !.

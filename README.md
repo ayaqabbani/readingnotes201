@@ -8,7 +8,7 @@ my contets:
  content | link
 ------------ | -------------
  Read 01| [link](https://ayaqabbani.github.io/readingnotes201/class-01)
- |||
+ Read 02| [link](https://ayaqabbani.github.io/readingnotes201/class-02)
  |||
  |||
  |||

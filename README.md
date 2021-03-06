@@ -10,9 +10,9 @@ my contets:
  Read 01| [link](https://ayaqabbani.github.io/readingnotes201/class-01)
  Read 02| [link](https://ayaqabbani.github.io/readingnotes201/class-02)
  Read 03| [link](https://ayaqabbani.github.io/readingnotes201/class-03)
- |||
- |||
- |||
+ Read 04| [link](https://ayaqabbani.github.io/readingnotes201/class-04)
+ Read 05| [link](https://ayaqabbani.github.io/readingnotes201/class-05)
+ Read 06| [link](https://ayaqabbani.github.io/readingnotes201/class-06)
  |||
  |||
  |||

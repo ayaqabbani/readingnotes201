@@ -24,4 +24,4 @@ you can loop through each node in the collection and apply the same statement in
 there are two different approaches to adding and removing content from a DOM tree, the innerHTML property and the DOM manipulation.
 using the innerHTML property leads to a security risks associated, while the DOM manipulation easily targets individual nodes in the DOM tree whereas innerHTML is better suited to updating entire fragments.
 ## attribute nodes
-once you have an element node you can use other properties and methods on that element node to access and change its attributes.
+once you have an element node you can use other properties and methods on that element node to access and change its attributes 
